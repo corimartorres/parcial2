@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Parcial 2</string>
+    <string name="nombre">Nombre</string>
+    <string name="escriba_nombre">Escriba Nombre...</string>
+    <string name="elija_estrato">Elija Estrato:</string>
+    <string name="salario">Salario</string>
+    <string name="digite_salario">Digite Salario...</string>
+    <string name="elija_nivel_educativo">Elija Nivel Educativo</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string name="modificar">Modificar</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="cancelar">cancelar</string>
+    <string name="buscar">buscar</string>
+    <string name="ingrese_la_c_dula_de_la_persona_que_desea_eliminar">Ingrese la cédula de la persona que desea eliminar</string>
+    <string name="ingrese_cedula">Ingrese la cédula de la persona que desea buscar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="c_dula">Cédula</string>
+    <string name="digite_c_dula">Digite Cédula...</string>
+    <string name="ingrese_c_dula_existente">Ingrese Cédula Existente</string>
+    <string-array name="spinner_estrato">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="spinner_nivel">
+        <item>Bachillerato</item>
+        <item>Pregrado</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+</resources>
